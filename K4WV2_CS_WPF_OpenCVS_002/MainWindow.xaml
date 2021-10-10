@@ -1,0 +1,12 @@
+﻿<Window x:Class="K4WV2_CS_WPF_OpenCVS_002.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:K4WV2_CS_WPF_OpenCVS_002"
+        mc:Ignorable="d"
+        Title="K4WV2_OpenCVS_002" SizeToContent="WidthAndHeight" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid>
+        <Image x:Name="ImageColor" Width="1920" Height="1080" />
+    </Grid>
+</Window>
